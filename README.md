@@ -1,6 +1,6 @@
 # Food Calorie and Workout Calculator
 
-Mini Project — Python for Data Science Laboratory
+Mini Project — Python for Data Science Laboratory https://foodcaloriecalculator.streamlit.app/
 
 A desktop GUI application that looks up the nutritional content of any food item using the USDA FoodData Central API, visualizes its macronutrient breakdown, and estimates how much exercise is needed to burn off those calories.
 
